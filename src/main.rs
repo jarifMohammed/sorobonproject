@@ -2,6 +2,8 @@
 use std::fmt::{self, write};
 use std::fmt::{Display, Formatter , Error };
 
+// this is Jarif
+
 enum VertDir{
     Up,
     Down
